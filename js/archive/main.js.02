@@ -1,17 +1,5 @@
 #!/usr/bin/env /usr/bin/node
 
-/**
- * Examples:
- *  1.  $ ./main.js "./m1.js" "howdy jroll"
-        f1: howdy jroll
-        $
-
-    2.  $ ./main.js "./generic.js" "howdy jroll"
-        Hello, howdy jroll
-        $
- *
- **/
-
 'use strict';
 
 import process from 'node:process';
